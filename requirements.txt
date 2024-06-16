@@ -1,0 +1,9 @@
+pandas 
+dash-bootstrap-components
+dash
+numpy 
+openpyxl
+nbformat
+ipykerne
+plotly 
+seaborn
